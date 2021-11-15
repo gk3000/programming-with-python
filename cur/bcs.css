@@ -1,0 +1,63 @@
+body {color: black;}
+
+table, tr {
+	background-color: black !important;
+	color: white;
+}
+
+/***************   IMAGES   ****************/
+img {
+	width: 50%;
+	display: block;
+	margin: 0 auto;
+}
+
+.zero_left {
+	margin-left: 0;
+}
+
+.full_width {
+	width: 100%;
+	margin-top: 5%;
+}
+
+.half_width {
+	width: 50%;
+	margin-top: 5%;
+}
+
+.debugger_key {
+	width: 20%;
+	margin: auto;
+}
+
+.screens_container {
+	width: 100%;
+	display: block;
+}
+
+.mobile_screen {
+	width: 30%;
+	margin: auto;
+	float: left;
+	margin: 5% 10%;
+}
+
+summary {
+	font-size: 2em;
+}
+
+.video-container {
+	position: relative;
+	padding-bottom: 56.25%;
+	padding-top: 30px;
+	height: 0;
+}
+
+.video-container iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}

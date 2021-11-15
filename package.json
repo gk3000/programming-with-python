@@ -1,0 +1,12 @@
+{
+  "name": "py_curriculum_2020",
+  "version": "1.0.1",
+  "description": "Curriculum for the Python Bootcamp pretty",
+  "author": "BCS",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "setup": "sudo npm install -g docsify-cli",
+    "start": "docsify serve cur -p 13666"
+  },
+  "license": "ISC"
+}
