@@ -1,13 +1,5 @@
 # Functions
 
----
-
-<details>
-    <summary>Functions</summary><div class='video-container'>
-        <iframe src="https://www.youtube.com/embed/brHZgM0e4Z0?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe></div>
-</details>
-
----
 
 ## Defining a function
 

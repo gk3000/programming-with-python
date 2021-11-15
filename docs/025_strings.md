@@ -1,13 +1,5 @@
 # Strings, input()
 
----
-
-<details>
-    <summary>Strings</summary><div class='video-container'>
-        <iframe src="https://www.youtube.com/embed/A3kBZdacsbg?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe></div>
-</details>
-
----
 
 Declaring a string means assigning a value inside double or single quotes to a variable, like:
 

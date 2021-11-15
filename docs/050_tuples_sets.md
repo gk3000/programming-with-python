@@ -1,15 +1,7 @@
 # Tuples and sets
 
----
 
-<details>
-    <summary>Tuples and sets</summary><div class='video-container'>
-        <iframe src="https://www.youtube.com/embed/uPP5l-lppXY?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe></div>
-</details>
-
----
-
-Tuple is an orderd immutable sequence of records inside parenthesis like `('luke', 100, 'force', 5.5)`. So the main difference between tuples and lists is that tuple is immutable, it can not be changed. Once defined, we can't update or delete an item in the tuple. 
+Tuple is an ordered immutable sequence of records inside parenthesis like `('luke', 100, 'force', 5.5)`. So the main difference between tuples and lists is that tuple is immutable, it can not be changed. Once defined, we can't update or delete an item in the tuple. 
 
 Why do we want to use them? Same as constants in other programming languages we might want to define a list of value which should not be modified. Like an alphabet for example, we can't change it to our liking, right? Or a list of months in the year... 
 

@@ -1,13 +1,5 @@
 # Debugging and handling errors
 
----
-
-<details>
-    <summary>Debugging / handling errors</summary><div class='video-container'>
-        <iframe src="https://www.youtube.com/embed/9w2EIASrUvQ?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe></div>
-</details>
-
----
 
 We all make mistakes and in programming we have some tools to catch them. Those errors could be syntax errors (`SyntaxError`), in which case we should check the reference to see what is the proper use of Python we are trying to do. 
 

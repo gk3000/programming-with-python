@@ -1,14 +1,5 @@
 # Loops
 
----
-
-<details>
-    <summary>Loops</summary><div class='video-container'>
-        <iframe src="https://www.youtube.com/embed/9_k2ysCQ6L8?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe></div>
-</details>
-
----
-
 Loops are a way to repeat a certain action(s) a given number of times or based on specified condition. 
 
 Loops are used for all kinds of iterations allowing code to be executed repeatedly. After all this is what computers are really good at: repeat lots of things really fast!

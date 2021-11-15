@@ -1,13 +1,5 @@
 # Lambdas
 
----
-
-<details>
-    <summary>Built-in functions</summary><div class='video-container'>
-        <iframe src="https://www.youtube.com/embed/X2wmtQuLRRc?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe></div>
-</details>
-
----
 
 Let's say we have a function which return a sum of two numbers:
 

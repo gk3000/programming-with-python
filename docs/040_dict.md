@@ -1,14 +1,5 @@
 # Dictionaries
 
----
-
-<details>
-    <summary>Dictionaries</summary><div class='video-container'>
-        <iframe src="https://www.youtube.com/embed/tAhDAlrfBsQ?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe></div>
-</details>
-
----
-
 
 Dictionary is a collection of properties defined by a key/value pair
 

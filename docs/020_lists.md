@@ -1,13 +1,5 @@
 # Lists
 
----
-
-<details>
-    <summary>Lists</summary><div class='video-container'>
-        <iframe src="https://www.youtube.com/embed/oO2sJXIDBL8?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe></div>
-</details>
-
----
 
 In Python list is a special type of variable, which can hold more than one value at a time. List is basically a list of items separated by a comma.
 
