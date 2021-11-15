@@ -1,13 +1,5 @@
 # Running Python code
 
----
-
-<details>
-    <summary>2 ways to run Python codelists</summary><div class='video-container'>
-        <iframe src="https://www.youtube.com/embed/wiwBzYVR2uo?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe></div>
-</details>
-
----
 
 In the Terminal run `python` so you will start python environment and see a command prompt like this:
 
