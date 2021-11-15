@@ -5,20 +5,20 @@
  -->
 
 - Basics
-  - [Terminal basics](py_cur/002_terminal_basics.md)
-  - [Installing Python](py_cur/001_installing_python.md)
-  - [Running Python code](py_cur/005_running_code.md)
-  - [Data types](py_cur/010_datatypes.md)
-  - [Variables, comparison, print(), modulus](py_cur/015_variables.md)
-  - [Conditionals](py_cur/030_conditionals.md)
-  - [Lists](py_cur/020_lists.md)
-  - [Strings](py_cur/025_strings.md)
-  - [Loops](py_cur/035_loops.md)
-  - [Dictionaries](py_cur/040_dict.md) 
-  - [Tuples and sets](py_cur/050_tuples_sets.md) 
-  - [Functions](py_cur/060_functions.md) 
-  - [Built-in functions](py_cur/070_built_in_functions.md) 
-  - [Debugging errors](py_cur/080_debugging.md) 
+  - [Terminal basics](002_terminal_basics.md)
+  - [Installing Python](001_installing_python.md)
+  - [Running Python code](005_running_code.md)
+  - [Data types](010_datatypes.md)
+  - [Variables, comparison, print(), modulus](015_variables.md)
+  - [Conditionals](030_conditionals.md)
+  - [Lists](020_lists.md)
+  - [Strings](025_strings.md)
+  - [Loops](035_loops.md)
+  - [Dictionaries](040_dict.md) 
+  - [Tuples and sets](050_tuples_sets.md) 
+  - [Functions](060_functions.md) 
+  - [Built-in functions](070_built_in_functions.md) 
+  - [Debugging errors](080_debugging.md) 
 
 <!-- 
 
