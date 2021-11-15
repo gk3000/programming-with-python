@@ -256,7 +256,7 @@ print(combined_ideas)
 # as you can see Cookie was in both lists so that's the name of our new pet!!!
 ```
 
-<img src="./py_cur/pics/cookie_cat.jpg">
+<img src="./pics/cookie_cat.jpg">
 
 
 ## Set comprehension

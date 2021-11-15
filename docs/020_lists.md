@@ -525,7 +525,7 @@ nums = [ [num for num in range(0,5)] for ele in range(1,4) ]
 [ [print(f'{num} is even') if num % 2 == 0 else print(f'{num} is odd') for num in item] for item in nums  ]
 ```
 
-<img src="./py_cur/pics/mitch.gif">
+<img src="./pics/mitch.gif">
 
 
 

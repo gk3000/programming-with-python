@@ -517,7 +517,7 @@ result is None
 # will give True
 
 ```
-<img src="./py_cur/pics/result_is_none.png">
+<img src="./pics/result_is_none.png">
 
 ---
 
@@ -569,4 +569,4 @@ another_book
 # {'pages': 500, 'author': 'Stephen King', 'cover_artist': 'Bob Giusti', 'title': 'It', 'year': 1986, 'publisher': 'Vikings'}
 ```
 
-<img src="./py_cur/pics/why_dict.jpg">
+<img src="./pics/why_dict.jpg">

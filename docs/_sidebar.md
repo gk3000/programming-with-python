@@ -4,7 +4,6 @@
 * [](guide.md)
  -->
 
-- Basics
   - [Terminal basics](002_terminal_basics.md)
   - [Installing Python](001_installing_python.md)
   - [Running Python code](005_running_code.md)

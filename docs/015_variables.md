@@ -23,7 +23,7 @@ In Python to declare a variable we only need to provide a name for it, assignmen
 
 We can now print back the value of this variable by simply typing it's name and hitting Enter:
 
-<img src="./py_cur/pics/new-var-value-type.png">
+<img src="./pics/new-var-value-type.png">
 
 And also check data type by running `type(person)`
 
@@ -75,7 +75,7 @@ basket = apple + apple_two;
 
 Now basket will have a value of 7:
 
-<img src="./py_cur/pics/basket.png">
+<img src="./pics/basket.png">
 
 Another example:
 

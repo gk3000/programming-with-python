@@ -325,4 +325,4 @@ mom = 'mother' not in quote
 print(mom)
 ```
 
-<img src="./py_cur/pics/darth.jpg">
+<img src="./pics/darth.jpg">

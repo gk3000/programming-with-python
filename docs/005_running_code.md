@@ -23,7 +23,7 @@ Another way is to create a file with .py extension and execute it. Let's do it.
 
 But before we want you to create a folder for this course and go into this folder from the terminal. To do that you can type `cd  ` -- cd and a space -- and then drag and drop your folder into the terminal so you will see something like this:
 
-<img src="./py_cur/pics/cd-to-folder.png">
+<img src="./pics/cd-to-folder.png">
 
 Now inside this folder create a new file either in your code editor or from the Terminal with `touch hello.py`
 
@@ -31,7 +31,7 @@ Open up this file and put `print('Hello world')` into it. Save it and from the t
 
 `python hello.py`
 
-<img src="./py_cur/pics/python-hellopy.png">
+<img src="./pics/python-hellopy.png">
 
 Yay! 🙌
 

@@ -1,15 +1,7 @@
 # Data types
 
----
 
-<details>
-    <summary>Data types</summary><div class='video-container'>
-        <iframe src="https://www.youtube.com/embed/6V5SP653aJE?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe></div>
-</details>
-
----
-
-Python is loosely-typed language which eans the type of variable is defined by it's value. Different data types are used to define what we can do with different types of data. For example, we can do math with numbers but we can not do math with text. 
+Python is loosely-typed language which means the type of variable is defined by it's value. Different data types are used to define what we can do with different types of data. For example, we can do math with numbers but we can not do math with text. 
 
 In Python we have these data types:
 
@@ -109,7 +101,7 @@ cats_owned = None
 
 Bob doesn't have a cat.
 
-<img src="./py_cur/pics/grumpy-cat-foto.jpg">
+<img src="./pics/grumpy-cat-foto.jpg">
 
 ---
 
