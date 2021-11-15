@@ -1,15 +1,5 @@
 # Variables, print(), comparison, modulus operator
 
----
-
-<details>
-    <summary>Variables, comparison operators</summary><div class='video-container'>
-        <iframe src="https://www.youtube.com/embed/OpYf8V-4O_0?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe></div>
-</details>
-
----
-
-## Variables
 
 A variable is a storage location paired with an associated symbolic name (an identifier), which contains some known or unknown quantity of information referred to as values.
 

@@ -1,6 +1,4 @@
-## Terminal
-
-
+# Terminal
 
 ## MacOS most used commands.
 

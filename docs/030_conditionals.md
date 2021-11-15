@@ -1,14 +1,5 @@
 # Conditionals
 
----
-
-<details>
-    <summary>Conditionals</summary><div class='video-container'>
-        <iframe src="https://www.youtube.com/embed/JcYPWb-xuBY?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe></div>
-</details>
-
----
-
 We use conditionals to check if the given condition is met. If the condition is met then the code inside the block will run otherwise it will not.
 
 ```python
