@@ -4,9 +4,7 @@ Live version: https://gk3000.github.io/programming-with-python/#/
 
 ---
 
-## [Video tutorial](https://youtu.be/FFc-H52HtY0)
-
-Make sure you have Node.js and Git ([GitBash](https://gitforwindows.org) for Windows) installed.
+Make sure you have Git ([GitBash](https://gitforwindows.org) for Windows) installed.
 
 In the terminal:
 

@@ -1,6 +1,6 @@
-> For the Terminal commands walkthrough making a main folder for all the code outside of icloud and make folders inside, move files around, etc. 
+> For the Terminal commands walk through making a main folder for all the code outside of icloud and make folders inside, move files around, etc. 
 
-> Scope explaintations? 
+> Scope explanations? 
 
 ===
 

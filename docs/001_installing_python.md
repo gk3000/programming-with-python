@@ -2,7 +2,7 @@
 
 ## Mac
 
-> We recommend to install Zsh first of all, which is a powerfull CLI framework with tons of available plugins to improve productivity while working in the terminal: https://ohmyz.sh. We are using it and all the videos are done with Zsh as a default terminal shell.
+> We recommend to install Zsh first of all, which is a powerful CLI framework with tons of available plugins to improve productivity while working in the terminal: https://ohmyz.sh. We are using it and all the videos are done with Zsh as a default terminal shell.
 
 Install Homebrew first -- https://brew.sh
 
@@ -14,21 +14,17 @@ Then install `pyenv` to manage Python environments (we want to keep original Pyt
 
 In the Terminal run
 
-`brew install pyenv `
+`brew install python `
 
 > The version number, like 3.10.0 below, is representing the latest version available, please check https://www.python.org/downloads/ to see the current version at the moment of when you are going to do it and replace 3.10.0 here with the current latest version.
 
-Then run 
+Now check where python is installed:
 
-`pyenv install 3.10.0`
-
-And then assign this version to be default one with running
-
-`pyenv global 3.10.0`
+`ls -l /usr/local/bin/python*`
 
 And create a symbolic link with 
 
-`echo -e 'if command -v pyenv 1>/dev/null 2>&1; then\n  eval "$(pyenv init -)"\nfi' >> ~/.zshrc`
+`ln -s -f ../Cellar/python@3.10/3.10.1/bin/python3.10 /usr/local/bin/python`
 
 Now we can check the version of Python installed with 
 
@@ -44,7 +40,7 @@ Done! 👍
 
 ---
 
-> More info about pyenv: https://realpython.com/intro-to-pyenv/
+<!-- > More info about pyenv: https://realpython.com/intro-to-pyenv/ -->
 
 ## Windows
 
