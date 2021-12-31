@@ -64,7 +64,7 @@ Done! 👍
 
 	When prompted, allow the installer to modify your system
 
-Once installed restart your laptop and open GitBsh.
+Once installed restart your laptop and open GitBash.
 
 To check the installed version run `python -V` in GitBash. The output should be `Python 3.10.1`. 
 
