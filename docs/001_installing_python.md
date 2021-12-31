@@ -16,7 +16,7 @@ In the Terminal run
 
 `brew install python `
 
-> The version number, like 3.10.0 below, is representing the latest version available, please check https://www.python.org/downloads/ to see the current version at the moment of when you are going to do it and replace 3.10.0 here with the current latest version.
+> The version number, like 3.10.1 below, is representing the latest version available, please check https://www.python.org/downloads/ to see the current version at the moment of when you are going to do it and replace 3.10.1 here with the current latest version.
 
 Now check where python is installed:
 
@@ -32,7 +32,7 @@ Now we can check the version of Python installed with
 
 It should return
 
-`Python 3.10.0`
+`Python 3.10.1`
 
 Now to start Python environment run `python` in the Terminal.
 
@@ -46,7 +46,7 @@ Done! 👍
 
 1. Go to https://www.python.org/downloads/windows/
 
-2. Click on the link for the Latest Python 3 Release (3.10.0 at the moment of writing this doc)
+2. Click on the link for the Latest Python 3 Release (3.10.1 at the moment of writing this doc)
 
 3. Choose the Windows x86-64 executable installer and save it in your Downloads directory
 
@@ -66,7 +66,7 @@ Done! 👍
 
 Once installed restart your laptop and open GitBsh.
 
-To check the installed version run `python -V` in GitBash. The output should be `Python 3.10.0`. 
+To check the installed version run `python -V` in GitBash. The output should be `Python 3.10.1`. 
 
 Now to start Python environment run `python` in GitBash.
 
