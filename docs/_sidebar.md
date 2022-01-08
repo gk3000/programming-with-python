@@ -4,8 +4,8 @@
 * [](guide.md)
  -->
 
-  - [Terminal basics](002_terminal_basics.md)
   - [Installing Python](001_installing_python.md)
+  - [Terminal basics](002_terminal_basics.md)
   - [Running Python code](005_running_code.md)
   - [Data types](010_datatypes.md)
   - [Variables, comparison, print(), modulus](015_variables.md)
